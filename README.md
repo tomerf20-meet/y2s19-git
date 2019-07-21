@@ -20,3 +20,4 @@
 ![alt text](pencil.png)
 - Type something in the file and then click `Commit changes` at the bottom of the page. Now the repo has been changed, so the local copy on your computer is now out-of-date!
 - To fix this, go to your terminal and type `git pull`. This will get the changes from the github repository and apply them to your local repo.
+Hi!
